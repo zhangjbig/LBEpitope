@@ -4,11 +4,9 @@
 ######  The following on-line tools are needed.
     TMHMM.v2.0 (http://www.cbs.dtu.dk/services/TMHMM/)
 
-VaxiJen v2.0
-http://www.ddg-pharmfac.net/vaxijen/VaxiJen/VaxiJen.html
+    VaxiJen v2.0 (http://www.ddg-pharmfac.net/vaxijen/VaxiJen/VaxiJen.html)
 
-IEDB
-http://tools.iedb.org/bcell/
+    IEDB（http://tools.iedb.org/bcell/）
 
 ABCpred
 https://webs.iiitd.edu.in/raghava/abcpred/ABC_submission.html
