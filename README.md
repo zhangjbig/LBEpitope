@@ -1,7 +1,7 @@
 #  LBEpitope
   This is used to reproduce the results we obtained in our paper entitled as "Identification of four linear B-cell epitopes on the SARS-CoV-2 spike protein able to elicit neutralizing antibodies".
 
-######  The following on-line tools are needed.
+###  The following on-line tools are needed.
     TMHMM.v2.0 (http://www.cbs.dtu.dk/services/TMHMM/)
 
     VaxiJen v2.0 (http://www.ddg-pharmfac.net/vaxijen/VaxiJen/VaxiJen.html)
@@ -29,3 +29,5 @@
     NGDC (https://bigd.big.ac.cn/ncov/)
 
     ConSurf (https://consurf.tau.ac.il/)
+
+#  Data
