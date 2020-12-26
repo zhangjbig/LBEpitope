@@ -1,5 +1,5 @@
-# LBEpitope
-#This is used to reproduce the results we obtained in our paper entitled as "Identification of four linear B-cell epitopes on the SARS-CoV-2 spike protein able to elicit neutralizing antibodies".
+#  LBEpitope
+  This is used to reproduce the results we obtained in our paper entitled as "Identification of four linear B-cell epitopes on the SARS-CoV-2 spike protein able to elicit neutralizing antibodies".
 
 #The following on-line tools are needed.
 TMHMM.v2.0 (http://www.cbs.dtu.dk/services/TMHMM/)
